@@ -35,4 +35,3 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 [Poisson Distribution: Predict the score in soccer betting](https://www.pinnacle.com/en/betting-articles/Soccer/how-to-calculate-poisson-distribution/MD62MLXUMKMXZ6A8)
 
 [scipy.stats.poisson](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.poisson.html)
-
